@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/base64-to-pdf/static/css/main.ff02f4b5.css",
-    "main.js": "/base64-to-pdf/static/js/main.c4789652.js",
+    "main.js": "/base64-to-pdf/static/js/main.b1b1695f.js",
     "index.html": "/base64-to-pdf/index.html",
     "main.ff02f4b5.css.map": "/base64-to-pdf/static/css/main.ff02f4b5.css.map",
-    "main.c4789652.js.map": "/base64-to-pdf/static/js/main.c4789652.js.map"
+    "main.b1b1695f.js.map": "/base64-to-pdf/static/js/main.b1b1695f.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.c4789652.js"
+    "static/js/main.b1b1695f.js"
   ]
 }
