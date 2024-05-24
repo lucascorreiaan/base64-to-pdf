@@ -1,20 +1,25 @@
-# Base64 to PDF Decoder
+# Company Expenses
 
-This is a simple web application that decodes Base64 strings into PDF files. It is built with React and deployed using GitHub Pages.
+Company Expenses é um aplicativo web para gerenciamento de ajudas de custo. Ele permite que os usuários preencham informações sobre suas despesas e gerem um PDF formatado com esses dados.
 
-## Features
+## Funcionalidades
 
-- Decode Base64 strings to PDF
-- Download the decoded PDF file
+- Preenchimento de informações sobre a empresa, funcionário, serviço, localidade, datas e valores.
+- Cálculo automático de dias úteis entre duas datas, excluindo feriados.
+- Geração de um PDF com as informações preenchidas e o resumo das despesas.
 
-## Usage
+## Tecnologias Utilizadas
 
-You can use the application directly at [https://lucascorreiaan.github.io/base64-to-pdf/](https://lucascorreiaan.github.io/base64-to-pdf/).
+- React
+- jsPDF
+- react-datepicker
+- react-datepicker/dist/react-datepicker.css
+- jsPDF-autotable
 
-## Development
+## Instalação
 
-To run the project locally, follow these steps:
+1. Clone o repositório:
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/lucascorreiaan/base64-to-pdf.git
+```bash
+git clone https://github.com/lucascorreiaan/company-expenses.git
+cd company-expenses
