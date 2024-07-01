@@ -13,7 +13,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename="/base64-to-pdf">
       <div>
         <Navbar bg="light" expand="lg" className="mb-3">
           <Container>
