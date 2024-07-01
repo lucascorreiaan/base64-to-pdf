@@ -2,6 +2,26 @@
   text-align: center;
 }
 
+.navbar {
+  margin-bottom: 20px;
+}
+
+.navbar-nav {
+  align-items: center;
+}
+
+@media (max-width: 991px) {
+  .navbar-nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .nav-link {
+    padding: 0.5rem 0;
+  }
+}
+
+/* Restante dos estilos existentes */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
