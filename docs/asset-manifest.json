@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/base64-to-pdf/static/css/main.87be115c.css",
+    "main.js": "/base64-to-pdf/static/js/main.aa02b7fc.js",
+    "index.html": "/base64-to-pdf/index.html",
+    "main.87be115c.css.map": "/base64-to-pdf/static/css/main.87be115c.css.map",
+    "main.aa02b7fc.js.map": "/base64-to-pdf/static/js/main.aa02b7fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87be115c.css",
+    "static/js/main.aa02b7fc.js"
+  ]
+}
